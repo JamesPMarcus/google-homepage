@@ -3,7 +3,9 @@
 This purpose of this project was to deconstruct and rebuild the google homepage using introductory HTML and CSS learning material.
 This is one of the first projects from The Odin Project.
 
-![alt text](google-homepage/google-screen.png “Screen Shot”)
+Link to project page:
+
+https://jamespmarcus.github.io/google-homepage/
 
 ## Installation
 
